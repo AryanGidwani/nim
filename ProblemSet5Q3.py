@@ -5,6 +5,9 @@
 # there are a certain amount of stones or objects, and each player takes
 # turns taking either 1, 2, or 3 stones from the pile. The person who takes
 # the last stone from the pile is the loser!
+
+# Test comment
+
 import random
 # imports a module that helps with generating random numbers
 import sys
