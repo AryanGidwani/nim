@@ -1,0 +1,39 @@
+Aryan Gidwani
+ICS3UO - A
+November 26, 2021
+Version 20; Windows 10
+Unit 5, Question 3
+Python 3.9
+This program is simply the game of Nim! There are two different modes with this
+program: a player vs computer mode, and a player vs player mode. In both modes,
+a random number of stones are generated and are added to the pile. Opponents can
+take either 1, 2, or 3 stones from the pile. Neither opponent or player can take
+more or less than 1, 2, or 3 stones. The person who takes the last stone from
+the pile is deemed the loser of the game; thus, this game requires loads and
+loads of strategy.
+
+For my program to efficiently and effectively run, the user must have either
+Windows 10 or Windows 11. On top of this, the user must only input numbers,
+if the program asks for one. If the user decide to enter in a letter or
+a word, the program would fail to function as intended.
+
+There are a plethora of features that I added to my Nim program. I used
+functions to make my python code more organized and legible. It also helped me
+easily access certain parts of code that I may want to reuse later on in the
+program. Using a function also helped with coming up with a "quit" function,
+which can be used anywhere to make the program completely start. Furthermore,
+another important feature that I added to my code are if/elif/else statements.
+Using these statements helped me create different solutions to different
+pathways the program can make, along with general decision making. Finally,
+another feature that I added to my program is the keyword "global". This word
+proved to be useful, as it made certain variables global and accessible by all
+other functions. Making certain variables global proved to be useful in the
+code.
+
+There is one main error(restriction) associated with my program. In some parts
+of the code where a question specifically asks for a number, if the user were to
+type in a word or string, the program would malfunction and not properly work.
+However, this seems to be the only known error or restriction with the program.
+
+Nothing needs to be done beforehand. All the user needs to do is simply click
+the run button, and the program will do the rest.
