@@ -18,7 +18,7 @@ def stopProgram(userInput):
         sys.exit("Thank you for using this program!")
         # terminates the program
     else:
-        pass
+        pas
         # pass is used to do nothing
 
 winner = "user"
